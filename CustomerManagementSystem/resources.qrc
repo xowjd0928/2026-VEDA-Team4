@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/vedalogo.png</file>
+    </qresource>
+</RCC>
